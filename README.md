@@ -1,2 +1,2 @@
 # Unsolved-Game
-this is the basic game for cryptography lovers and puzzel solvers
+Unsolved Game is Android based game. The main aim behind this project was to learn the android studio. It is quize/puzzle game for the people who likes to solve cryptograph problems.
